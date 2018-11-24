@@ -1,6 +1,6 @@
 {
   "name": "@fetp/fetp-template-basic",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "fetp-template-basic is a basic build template",
   "main": "index.js",
   "scripts": {

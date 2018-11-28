@@ -1,8 +1,8 @@
 {
-  "name": "{{ projectName }}",
-  "version": "{{ version }}",
-  "description": "{{ projectDesc }}",
-  "author": "{{ yourname }} <{{ youremail }}>",
+  "name": "test",
+  "version": "0.0.1",
+  "description": "test",
+  "author": "yangxin2 <yang657850144@qq.com>",
   "license": "MIT",
   "dependencies": {
     "vue": "^2.5.14"

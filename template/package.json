@@ -5,12 +5,10 @@
   "author": "yangxin2 <yang657850144@qq.com>",
   "license": "MIT",
   "dependencies": {
-    "vue": "^2.5.14"
+    "vue": "^2.5.17"
   },
-  "scripts": {
-  },
-  "eslintConfig": {
-  },
+  "scripts": {},
+  "eslintConfig": {},
   "eslintIgnore": [
     "/dev",
     "/output"

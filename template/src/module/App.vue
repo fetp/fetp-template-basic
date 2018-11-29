@@ -23,11 +23,12 @@ export default {
 @import '~@/css/index.scss';
 
 #app {
+  padding: 20px;
   display: flex;
   justify-content: center;
   align-items: center;
-  height: 350px;
-  line-height: 350px;
+  height: 500px;
+  line-height: 500px;
   color: #fff;
   font-size: 72px;
   font-weight: bold;
@@ -35,7 +36,8 @@ export default {
   background: #000;
 }
 .logo {
-  width: 150px;
-  height: 150px;
+  display: block;
+  width: 200px;
+  height: 200px;
 }
 </style>

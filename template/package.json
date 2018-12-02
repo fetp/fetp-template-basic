@@ -1,14 +1,16 @@
 {
-  "name": "test",
-  "version": "0.0.1",
-  "description": "test",
-  "author": "yangxin2 <yang657850144@qq.com>",
-  "license": "MIT",
+  "name": "{{ projectName }}",
+  "version": "{{ version }}",
+  "description": "{{ projectDesc }}",
+  "author": "{{ yourname }} <{{ youremail }}>",
+  "license": "",
   "dependencies": {
     "vue": "^2.5.17"
   },
   "scripts": {},
-  "eslintConfig": {},
+  "eslintConfig": {
+    "extends": "@fetp/eslint-config-fetp"
+  },
   "eslintIgnore": [
     "/dev",
     "/output"

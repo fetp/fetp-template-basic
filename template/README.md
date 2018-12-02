@@ -1,4 +1,6 @@
-# test
+# {{ projectName }}
+
+{{ projectDesc }}
 
 ## init project
 
